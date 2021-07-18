@@ -5,7 +5,7 @@ The purpose of the analysis is well defined. (3 pt)
 
 ## Results:
 
-|June temps|
+|June|temps|
 |----|-----|
 |count|1700.000000|
 |mean|74.944118|
