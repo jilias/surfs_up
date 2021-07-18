@@ -2,6 +2,7 @@
 ## Overview of the statistical analysis:
 
 This analysis was to better understand the weather of the island and see how it would effect business for a surf shop that also happens to sell ice cream.
+By understanding the two months in the center of a high vacation season, June being the beginning of summer vacations and December being winter getaways, investors can feel confident in the fact that the weather temps are well within comfortable beachgoing temps and that money can be made during the two most important months in the traveling industry.
 
 ## Results:
 It seems in the island, the temps don't shift drastically. Both months average just above 70 degrees giving the perfect weather to be at the beach. While in June it can drop to 64 which is not too bad, December still tends to stay close to the 70 degree area with the lowest temp being a 69. December also historically tends to be a high busy season for travelers either way.
